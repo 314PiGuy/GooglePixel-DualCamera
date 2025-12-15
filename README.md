@@ -1,7 +1,7 @@
 # Google Pixel Dual Camera Streamer
 
 
-This Android application allows you to simultaneously stream video from two rear cameras of a Google Pixel device (or other compatible Android devices supporting logical multi camera API) to computer via MJPEG over TCP.
+This Android application allows you to simultaneously stream video from two rear cameras of a Google Pixel device (or other compatible Android devices supporting logical multi camera API) to computer via MJPEG over TCP. Works on google pixel models 6 and onwards.
 
 Combined with a python script, it allows both cameras to be used as virtual webcams for stereo or whatever else.
 
@@ -22,7 +22,7 @@ Combined with a python script, it allows both cameras to be used as virtual webc
 
 1.  **Clone the Repository**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/314PiGuy/GooglePixel-DualCamera
     cd GooglePixel-Dual-Camera
     ```
 
